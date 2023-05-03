@@ -1,3 +1,3 @@
 Miguel - 3ºA
 Atividade de Manutenção de Jogos
-Joao Gabriel
+#Editado por Joao Gabriel C. de Melo
